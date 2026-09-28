@@ -9,4 +9,6 @@ I'm a Computer Science student and undergraduate researcher at Waseda University
 
 Check my projects and research down below!
 
+![](https://komarev.com/ghpvc/?username=irvallensar)
+
 </div>
